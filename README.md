@@ -5,7 +5,7 @@ McGill Course work Project.
 Building a DNS client - Requirements:
 
 "Write a program using Java sockets that:
-• Is invoked from the command line (STDIN);
+• Is invoked from the command line (STDIN); \n
 • Send a query to the server for the given domain name using a UDP socket;
 • Wait for the response to be returned from the server;
 • Interpret the response and output the result to terminal display (STDOUT).
